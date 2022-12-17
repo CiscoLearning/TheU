@@ -14,11 +14,12 @@ The U. is a "learn by doing" technical series where the host walks through the l
 
 The goal for these videos is to be focused on teaching one topic, not just for coding or automation, but all the topics within Learning & Certs, such as networking, security, etc. Try to think of topics that you struggled with and cover a variety of difficulty from beginner to expert. Some videos may focus on teaching an introduction to something for a beginner, while others may be a deeper dive on a topic for a more dedicated audience. 
 
-These are different than Snack Minute because they are more in depth and are in a tutorial, step-by-step format instead of an interview / demo structure that Snack Minute follows. 
+These are different than [Snack Minute](https://www.youtube.com/playlist?list=PL2AuQ_ZjCjsq_dipCVvUS7enTwk4_P7n5) because they are more in depth and are in a tutorial, step-by-step format instead of an interview / demo structure that Snack Minute follows. 
 
 ## How do I contribute to The U.?
 
 Simple! 
+
 1. Find a topic relevant to the content (Learning Paths, Courses) in [Cisco U](https://u.cisco.com).
 2. Start the video with **"Welcome to another episode of The U., My Name is ... "** introduce yourself and the topic.
 3. Use [this slide](./assets/slide/TheU.-opening-slide-template.pptx) to outline the learning objective and steps you will cover.
